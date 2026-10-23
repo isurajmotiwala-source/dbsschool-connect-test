@@ -1,0 +1,132 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789933999437,
+      "tag": "0000_seed_demo_attendance_records",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789934162110,
+      "tag": "0001_vary_demo_attendance_second_child",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789934906958,
+      "tag": "0002_attendance_unique_student_date",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1789979260231,
+      "tag": "0003_add_get_student_notes_function",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1789980654716,
+      "tag": "0004_add_get_student_character_points",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1790169609114,
+      "tag": "0005_create_school_updates",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1790426347640,
+      "tag": "0006_create_academics_module",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1791386932908,
+      "tag": "0007_class_subject_templates",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1791703684400,
+      "tag": "0008_teacher_school_updates",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1791704905429,
+      "tag": "0009_updates_categories_and_reads",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1791705357226,
+      "tag": "0010_push_tokens",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1791708059285,
+      "tag": "0011_update_push_claim",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1791711118317,
+      "tag": "0012_update_senders",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1791716028573,
+      "tag": "0013_cloudflare_safe_helpers",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1791716709102,
+      "tag": "0014_login_attempts",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1791720920690,
+      "tag": "0015_admin_delete_class_and_teacher",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "7",
+      "when": 1791722248413,
+      "tag": "0016_backfill_staff_update_reads",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "7",
+      "when": 1791732414738,
+      "tag": "0017_profile_preferred_language",
+      "breakpoints": true
+    }
+  ]
+}
